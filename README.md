@@ -1,9 +1,6 @@
-# fish-kill-predictive-system
-A Microsoft Excel-based predictive system for fish kill occurrence using water quality variables.
-
 # Fish Kill Predictive Warning System (Excel-Based)
 
-This repository contains a Microsoft Excel-based predictive warning system developed using a logistic regression model to estimate the probability of fish kill occurrence.
+This repository contains a Microsoft Excel-based predictive warning system developed using a logistic regression model to classify the occurrence of fish kill events.
 
 # Input Variables
 Users can input the following water quality variables:
