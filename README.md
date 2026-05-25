@@ -17,7 +17,7 @@ Users can input the following water quality variables:
 The model computes the probability of fish kill occurrence based on user inputs and classifies the result using an optimized Youden Index threshold.
 
 # File Included
-- `Fish Kill Predictive Warning System.xlsx` – Main predictive tool
+- `Fish Kill Predictive Warning System.xlsm` – Main predictive tool
 
 # Instructions
 1. Open the Excel file
